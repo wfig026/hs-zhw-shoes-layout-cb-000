@@ -41,6 +41,7 @@
 }
 [class*="col-"] {
   margin-left: 2%;
+  display: inline-block;
 }
 .first {
   margin-left: 0;

@@ -28,9 +28,6 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-.wrapper {
-  display: block;
-}
 .col-1 {
   float: left;
   width: 32%;

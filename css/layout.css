@@ -36,12 +36,11 @@
   width: 32%;
 }
 .col-2 {
-  float; left;
+  float: left;
   width: 66%;
 }
 [class*="col-"] {
   margin-left: 2%;
-  display: inline-block;
 }
 .first {
   margin-left: 0;
